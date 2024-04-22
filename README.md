@@ -1,3 +1,2 @@
 # INFORMATICA
-# Atividade Excel
 # 
