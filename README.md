@@ -1,28 +1,40 @@
 
 ## INFORMÁTICA -- Fernando Dos Santos Ribeiro   
 
-          • ✅ ATIVIDADES + PROJETOS ✅
+          • ATIVIDADES ✅ 
+          
+          • PROJETOS ✅
 
-## POWERPOINT (APRESENTAÇÃO INICIAL MODIFICADA) 🌍
-> Um pouco sobre mim...
+          
 
-![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/4550ce42-e1cb-436d-b85c-8483bb1b2270)
+## APRESENTAÇÃO
+Uma breve apresentação de mim mesmo.
 
-![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/f86e35d1-8993-4b70-add9-bb8b1db499a1)
+-> Fernando dos Santos Ribeiro - 19 anos
 
+-> Cursando Banco de Dados - FATEC
 
-## EXCEL (FUNÇÕES DE CUSTO) 📊
+-> Técnico em Automação Industrial integrado ao Ensino Médio concluído
 
+-> São José dos Campos - SP
 
-![excel-microsoft-spreadsheet-computer-application-enhdz9phqfeeurhx]
-![ExcelFunction](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/23019594-db92-4863-9858-19aae0bcaa03)
-[GabrielPereira_Funções_Custo_Receita_Lucro (1).xlsx](https://github.com/GabrielSilva-GPI/Informatica_I/files/14763598/GabrielPereira_Funcoes_Custo_Receita_Lucro.1.xlsx)
+![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Foto%203x4%20FERNANDO%20PNG.png)
+
 
 __________________________________________________________________________________________________________________________
 
-![image](https://github.com/GabrielSilva-GPI/Informatica_I/assets/162816614/a30be81f-3530-4769-8822-f76dd4aa25ca)
-[Receitas_Empresariais.xlsx](https://github.com/GabrielSilva-GPI/Informatica_I/files/14763608/Receitas_Empresariais.xlsx)
+## EXCEL 
 
+### EMPRESA FICTICIA 
+
+![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Excel%20-%20Informatica/excel%20imagem.png)
+![ExcelFunction](https://github.com/fernandosantos09/INFORMATICA/blob/main/Excel%20-%20Informatica/Tabela%20empresa%20ficticia.png)
+[ATV1 - Empresa Ficticia.xlsx](https://github.com/fernandosantos09/INFORMATICA/blob/main/ATV%201.xlsx)
+
+__________________________________________________________________________________________________________________________
+### GRAFICO RECEITA - LUCRO 
+![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Excel%20-%20Informatica/Captura%20de%20tela%202025-02-12%20182252.png)
+[Panelas - Grafico Receita Produtos.xlsx](https://github.com/fernandosantos09/INFORMATICA/blob/main/Excel%20-%20Informatica/Graf_K_panela_sorvetes_produtos.xlsx)
 __________________________________________________________________________________________________________________________
 
 ## POWER BI (Dashboard)📋
