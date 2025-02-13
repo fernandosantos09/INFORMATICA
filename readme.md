@@ -29,6 +29,7 @@ ________________________________________________________________________________
 
 
 ![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Excel%20-%20Informatica/excel%20imagem.png)
+__________________________________________________________________________________________________________________________
 ![ExcelFunction](https://github.com/fernandosantos09/INFORMATICA/blob/main/Excel%20-%20Informatica/Tabela%20empresa%20ficticia.png)
 [ATV1 - Empresa Ficticia.xlsx](https://github.com/fernandosantos09/INFORMATICA/blob/main/ATV%201.xlsx)
 
@@ -47,6 +48,7 @@ ________________________________________________________________________________
 
 
 ![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Imagem%20power%20bi.png)
+__________________________________________________________________________________________________________________________
 ![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20BI%20-%20Informatica/Captura%20de%20tela%202025-02-12%20185044.png)
 [Programa de Monitoramento.pbix ](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20BI%20-%20Informatica/Dashboard%20-%20Programa%20de%20Monitoramento%20de%20Qualidade.pbix)
 
@@ -55,3 +57,23 @@ ________________________________________________________________________________
 
 ![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Imagem%20dash%20board%20acidentes.png)
 [Acidentes na BR.pbix](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20BI%20-%20Informatica/Dashboard%20-%20Acidentes%20na%20BR.pbix)
+
+
+## Power Point - Apresentações
+
+#### Desenvolvido no Power Point modelos de negócios segundo modelo Canvas Sebrae
+__________________________________________________________________________________________________________________________
+
+### Proposta de negócio de Chocolate
+
+
+![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20Point%20-%20Informatica/imagem%20power%20point.png)
+__________________________________________________________________________________________________________________________
+![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20Point%20-%20Informatica/Proposta%20Chocolate.jpg)
+[Proposta chocolate.pptx ](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20Point%20-%20Informatica/Canvas%20Sebrae%20-%20Proposta%20Chocolate.pptx)
+
+__________________________________________________________________________________________________________________________
+### Proposta de negócio de Consultoria para empresas
+
+![image](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20Point%20-%20Informatica/Proposta%20Consultoria.jpg)
+[Proposta de negócio de Consultoria.pptx](https://github.com/fernandosantos09/INFORMATICA/blob/main/Power%20Point%20-%20Informatica/Canvas%20Sebrae%20-%20Proposta%20de%20ConsulPtoria.pptx)
